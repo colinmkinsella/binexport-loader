@@ -18,7 +18,7 @@ PLUGIN_NAME = "BinExport"
 
 # Repository details
 REPO_OWNER = "colinmkinsella"
-REPO_NAME = "binexport-binaryninja"
+REPO_NAME = "binexport"
 
 PLUGIN_DIR = Path(binaryninja.user_plugin_path())
 RELEASE_URL = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/releases/latest"
